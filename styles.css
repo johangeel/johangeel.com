@@ -12,6 +12,6 @@ body {
   padding: 0 1em 0 1em;
 }
 
-.links {
-  display: flex;
+ul {
+  list-style: none;
 }/*# sourceMappingURL=styles.css.map */
