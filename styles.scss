@@ -5,7 +5,7 @@ body{
     justify-content: center;
     margin: 0;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
-    background-color: #ffb703;
+    background-color: #14213d;
     color: #fafafa;
 }
 
@@ -18,5 +18,8 @@ padding: 0 1em 0 1em;
 ul{
     list-style: none;
     padding: 0;
+}
+
+ul>a{
     color: #fafafa;
 }
