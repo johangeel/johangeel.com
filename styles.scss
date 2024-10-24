@@ -18,7 +18,13 @@ padding: 0 1em 0 1em;
 ul{
     list-style: none;
     padding: 0;
+    display: flex;
 }
+
+ul:first-child {
+    margin-right: 1em;
+  }
+  
 
 a{
     color: #fafafa;

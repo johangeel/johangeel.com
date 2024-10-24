@@ -18,6 +18,11 @@ body {
 ul {
   list-style: none;
   padding: 0;
+  display: flex;
+}
+
+ul:first-child {
+  margin-right: 1em;
 }
 
 a {
